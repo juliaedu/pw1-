@@ -46,10 +46,10 @@ footer {
 }
 footer p {
   color: fff;
-  padding: 0 22%;
-  font-size: 15;
+  padding: 0 20;
+  font-size: 18;
 }
 footer a {
-  color: fff;
+  color: white;
   text-decoration: none;
 }
