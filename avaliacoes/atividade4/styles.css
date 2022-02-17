@@ -35,7 +35,7 @@ header h1 {
 main {
   padding: 0 50;
   width: 90%;
-  height: 120%;
+  height: 130%;
   align-items: ;
 }
 footer {
@@ -53,4 +53,14 @@ footer p {
 footer a {
   color: white;
   text-decoration: none;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
 }
