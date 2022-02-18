@@ -35,8 +35,8 @@ header h1 {
 main {
   padding: 0 50;
   width: 90%;
-  height: 130%;
-  align-items: ;
+  height: 150%;
+  text-align: justify;
 }
 footer {
   width: 100%;
@@ -63,4 +63,25 @@ th, td {
   padding: 8px;
   text-align: left;
   border-bottom: 1px solid #ddd;
+}
+.ref {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 30%;
+  background-color: rgb(90, 37, 37)
+}
+.ref li {
+  display: inline-block;
+  padding: 1px 65px;
+}
+.ref a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+.ref li a:hover {
+
+  color: black;
 }
