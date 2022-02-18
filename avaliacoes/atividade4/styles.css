@@ -35,7 +35,7 @@ header h1 {
 main {
   padding: 0 50;
   width: 90%;
-  height: 150%;
+  height: 100%;
   text-align: justify;
 }
 footer {
@@ -82,6 +82,11 @@ th, td {
   text-decoration: none;
 }
 .ref li a:hover {
-
   color: black;
+}
+#art {
+  padding: 0 50;
+  width: 90%;
+  height: 240%;
+  text-align: justify;
 }
